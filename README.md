@@ -4,41 +4,39 @@
 
 ## Correcciones
 
-### Presentacion
+### Presentación
 
-* Quitar el boton de **"Hablar con un experto"**
-* Quitar seccion de clientes satisfechos. Se puede mencionar las virtudes de **trabajar con una IA** o el crescimiento que puede tener:
-  * Disponivilidad **24/7**.
-  * **Reducen el tiempo de espera**.
-  * **Respuestas más acertadas**.
-  * **Menor costo**.
-  * **Escalavilidad**.
+- Quitar el botón de **"Hablar con un experto"**.
+- Quitar la sección de clientes satisfechos. Se pueden mencionar las virtudes de **trabajar con una IA** o el crecimiento que puede tener:
+  - Disponibilidad **24/7**.
+  - **Reducción del tiempo de espera**.
+  - **Respuestas más acertadas**.
+  - **Menor costo**.
+  - **Escalabilidad**.
 
 ### Sobre nosotros
 
-Quitar la seccion: Los clientes están más interesados en los **beneficios directos del producto** y cómo este resuelve sus necesidades, no en la historia interna de la empresa.
+- Quitar la sección: Los clientes están más interesados en los **beneficios directos del producto** y en cómo este resuelve sus necesidades, no en la historia interna de la empresa.
 
 ### Resultados
 
-No tenemos resultados, hablar sobre las **ventajas de trabajar con nosotros** sobre otros competidores:
-
-* Servicio cara a cara.
-* escoger entre varios modelos IA.
-* Facilidad de hacre tu propio CRM (Géstion de Relacion con el Clientes).
-* Configuracion de bot rapida y aflexible.
-* Tener bots por sede.
-* Seguridad con tus datos y de tus clientes.
-* Un servicio accequible en America Latina.
+- No tenemos resultados; hablar sobre las **ventajas de trabajar con nosotros** frente a otros competidores:
+  - Servicio cara a cara.
+  - Escoger entre varios modelos de IA.
+  - Facilidad para crear tu propio CRM (Gestión de Relación con el Cliente).
+  - Configuración de bots rápida y flexible.
+  - Tener bots por sede.
+  - Seguridad con tus datos y los de tus clientes.
+  - Un servicio accesible en América Latina.
 
 ### Planes y Precios
 
-* **Quitar soporte** por email.
-* **Quitar conexion** con webs externas.
-* Todos los servivcios brinda los bots IA para redes sociales.
+- **Quitar soporte** por email.
+- **Quitar conexión** con webs externas.
+- Todos los servicios los brindan los bots de IA para redes sociales.
 
 ### Footer
 
-* Enlaces rapidos :white_check_mark:
-* Servicios :x:
-* Legal :white_check_mark:
-  
+- Enlaces rápidos ✅  
+- Servicios ❌  
+- Legal ✅
